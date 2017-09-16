@@ -1,0 +1,40 @@
+.contenedor{
+
+}
+.color-franja, .circulos-colores{
+  height: 150px;
+}
+.colores{
+  text-align: center;
+}
+.circulos{
+  height: 75px;
+  width: 75px;
+  display: inline-block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.red{
+background: red;
+}
+.blue{
+  background: #5178D0;
+}
+.green{
+  background: #5EA226;
+}
+.yellow{
+  background: yellow;
+}
+.seleccionar-color{
+  text-align: center;
+}
+.new-color{
+  color: white;
+  padding: 10px 30px;
+  background-color: green;
+  border-radius: 1px;
+}
